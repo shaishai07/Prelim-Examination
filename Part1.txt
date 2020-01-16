@@ -1,0 +1,7 @@
+Part 1: Exam
+
+#1: git clone <url>
+#2: git add <file name>
+#3: git commit -m "[descriptive message]"
+#4: git push
+#5: git pull
